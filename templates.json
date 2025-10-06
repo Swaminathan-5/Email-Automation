@@ -1,0 +1,7 @@
+{
+  "Meeting Reminder": "Hi {name},\n\nThis is a reminder for our meeting about {topic} scheduled on {date} at {time}.\n\nRegards,\n{sender_name}",
+  "Thank You Note": "Dear {name},\n\nThank you for your support during {project}. We really appreciate it.\n\nWarm regards,\n{sender_name}",
+  "Offer Letter": "Dear {name},\n\nWe are delighted to offer you the position of {role} at {company}. Please confirm your acceptance by {date}.\n\nSincerely,\nHR Team",
+  "Follow-Up": "Hi {name},\n\nJust checking in regarding our last discussion on {topic}. Please share updates when available.\n\nBest,\n{sender_name}",
+  "Custom Message": "Hi {name},\n\n{custom_message}\n\nBest regards,\n{sender_name}"
+}
